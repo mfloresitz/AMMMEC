@@ -74,10 +74,15 @@ body{
 }
 .margen2{
 	padding-left: 0px;
+	padding-right: 15px;
 }
 #left_nav {
     display: inline-block;
     float: left;
     position: relative;
     width: 0px;
+}
+.containerperso{
+	padding-left: 15px;
+	padding-right: 0px;
 }
